@@ -7,7 +7,7 @@ function Clothes({itemsForSale}) {
                 const {id, name, searchTerm, price, image} = element;
             return (
                 <div key={id} className="product-card"> 
-                <Link to={'/about/${item.title}'}>
+                <Link to={`/about/${element.title}`}>
                     <img src={image} alt="Clothes" width="400px" height="500px"/>
                 </Link>
                     <div className="product-info">
