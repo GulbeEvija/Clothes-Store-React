@@ -3,11 +3,11 @@ import { Link } from 'react-router-dom';
 function Clothes({itemsForSale}) {
     return (
         <div className="products">
-            {itemsForSale.map (( element => {
-                const {id, name, searchTerm, price, image} = element;
+            {itemsForSale.map (( item => {
+                const {id, name, searchTerm, price, image} = item;
             return (
                 <div key={id} className="product-card"> 
-                <Link to={`/about/${element.title}`}>
+                <Link to={`/about/${item.title}`}>
                     <img src={image} alt="Clothes" width="400px" height="500px"/>
                 </Link>
                     <div className="product-info">
