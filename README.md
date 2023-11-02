@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/GulbeEvija/Clothes-Store-React">
-    <img src="src/list.png" alt="Logo" width="80" height="80">
+    <img src="clothesIcon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Clothes Store</h3>
@@ -61,11 +61,13 @@ The page will reload when you make changes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
 ## Usage
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).![image](https://github.com/GulbeEvija/Clothes-Store-React/assets/135064568/c68e030a-78bc-454d-9f14-20879369b72b)
+To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 
@@ -74,6 +76,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).![imag
 If you have any suggestions that would make this project better, please send me a message!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## Contact
@@ -93,6 +96,6 @@ Project provided by [CanSheCode](https://edu-canshecode.thinkific.com/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[product-screenshot]: taskImage.png
+[product-screenshot]: clothesStoreApp.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
