@@ -46,6 +46,7 @@ Here's a blank template to get started:
 
 
 
+
 ### Built With
 
 * [![React][React.js]][React-url]
@@ -63,11 +64,13 @@ The page will reload when you make changes.
 
 
 
+
 ## Usage
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 
 
 
@@ -81,7 +84,7 @@ If you have any suggestions that would make this project better, please send me 
 
 ## Contact
 
-Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/) - evija.gulbe@outlook.com
+Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/)
 
 Project Link: [https://github.com/GulbeEvija/Clothes-Store-React](https://github.com/GulbeEvija/Clothes-Store-React)
 
