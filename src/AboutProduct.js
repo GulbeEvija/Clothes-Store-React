@@ -9,21 +9,23 @@ function AboutProduct() {
         <div>
             {data.filter((item) => item.title === title).map((elem, index) => {
                 return (
-                    <div key={index}>
-                        <h3>{elem.name}</h3>
+                    <div key={index} className="contTwo">
                         <img 
                             src={elem.image}
                             alt="product"
                             width="350px"
                             height="500px"
                         />
-                        <button onClick={() => navigate(-1)}> 
-                            Go Back
-                        </button>
+                        <div className="contInfo">
+                            <h3>{elem.name}</h3>
+                            <h4>{elem.price}</h4>
+                            <button onClick={() => navigate(-1)} className="changeBack"> 
+                                Go Back
+                            </button>
+                        </div>
                     </div>
                 )
             })}
-            <h2>About Product</h2>
         </div>
     );
 }
