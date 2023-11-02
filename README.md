@@ -9,7 +9,7 @@
 <h3 align="center">Clothes Store</h3>
 
   <p align="center">
-    App built with React using props and class components.
+    App built with React using React Hooks and React Router.
     <br />
     <br />
     <a href="https://aesthetic-creponne-4a95f4.netlify.app/">View project live on Netlify</a>
