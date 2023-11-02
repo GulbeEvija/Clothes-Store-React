@@ -40,7 +40,15 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Here's a blank template to get started: 
+* In this app offers users fearures such as:
+    * Dynamic navigation bar
+    * Each item has its own page and URL
+    * Buttons which sort items by various categories
+* Technologies used:
+    1. data.js was used to store all information
+    2. props were used to share data between functional components
+    3. React Hook = useState()
+* In the future I hope to add a search bar where users can search clothing items!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
